@@ -1,7 +1,8 @@
 CC=gcc
+FILE=<name of the C file>
 
-all: SinglyLinkedLists.c
-	$(CC) -o SinglyLinkedLists SinglyLinkedLists.c
+all: $(FILE).c
+	$(CC) -o $(FILE) $(FILE).c
 
 clean: 
-	rm -f SinglyLinkedLists
+	rm -f $(FILE)
