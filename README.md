@@ -5,7 +5,7 @@ This repository contains implementations of various data structures in the C pro
 ## Structures Implemented
 
 - [x] Singly Linked Lists
-- [ ] Doubly Linked Lists
+- [x] Doubly Linked Lists
 - [ ] Stacks
 - [ ] Queues
 - [ ] Binary Search tress
