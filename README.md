@@ -6,8 +6,8 @@ This repository contains implementations of various data structures in the C pro
 
 - [x] Singly Linked Lists
 - [x] Doubly Linked Lists
-- [ ] Stacks
-- [ ] Queues
+- [x] Stacks
+- [x] Queues
 - [ ] Binary Search tress
 - [ ] Binary heaps
 - [ ] Hash Tables
