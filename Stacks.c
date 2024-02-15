@@ -79,7 +79,10 @@ Stack *push(int data, Stack *stack)
   Node *newNode = malloc(sizeof(Node));
 
   if (newNode == NULL)
+  {
+    free(newNode);
     return NULL;
+  }
 
   newNode->data = data;
   newNode->next = NULL;
