@@ -9,7 +9,7 @@ This repository contains implementations of various data structures in the C pro
 - [x] Stacks
 - [x] Queues
 - [x] Binary Search tress
-- [ ] Binary heaps
+- [x] Binary heaps
 - [ ] Hash Tables
 - [ ] Graphs
 
