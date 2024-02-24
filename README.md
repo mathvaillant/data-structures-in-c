@@ -11,7 +11,7 @@ This repository contains implementations of various data structures in the C pro
 - [x] Binary Search tress
 - [x] Binary heaps
 - [x] Hash Tables
-- [ ] Graphs
+- [x] Graphs
 
 ## Getting Started
 
